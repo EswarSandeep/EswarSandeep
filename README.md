@@ -1,36 +1,22 @@
-<h1 align="center">Hi 👋, I'm Eswar Sandeep</h1>
-<h3 align="center">A passionate DevOps Engineer from India, currently working in the corporate sector. In my free time, I actively experiment with DevOps tools, leveraging them to execute personal projects, and engage in self-directed learning for personal development.</h3>
+### Hi there 👋, my name is Sandeep
+#### DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | CI/CD |
+![DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | CI/CD |](https://media.licdn.com/dms/image/D5616AQE_PnK_HOe9Iw/profile-displaybackgroundimage-shrink_350_1400/0/1707903925245?e=1713398400&v=beta&t=URHUVqZlSd9j17A-mHURlh3Bk05ImM2b5sS3sZUdhqY)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eswarsandeep&label=Profile%20views&color=0e75b6&style=flat" alt="eswarsandeep" /> </p>
+With 3.2 years of dedicated DevOps experience achieving tangible results in automating infrastructure, implementing CI/CD pipelines, and managing cloud-based services. Proactive and excited to partner with like-minded individuals to achieve goals.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eswarsandeep" alt="eswarsandeep" /></a> </p>
+Skills: DevOps / Jenkins / Docker / Kubernetes / 
 
-- 🌱 I’m currently learning **DevSecOps and Azure infrastructure**
+- 🌱 I’m currently learning Azure 
+- 💬 Ask me about DevOps | AWS 
+- 📫 How to reach me: eswarsandeep.donkina1@gmail.com 
+- 😄 Pronouns: He/Him 
 
-- 👨‍💻 All of my projects are available at [https://github.com/EswarSandeep](https://github.com/EswarSandeep)
 
-- 💬 Ask me about **DevOps & Aws cloud**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EswarSandeep)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eswarsandeep/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sandeep__ig/)  
 
-- 📫 How to reach me **eswarsandeep.donkina1@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EswarSandeep)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📄 Know about my experiences [www.linkedin.com/in/eswarsandeep](www.linkedin.com/in/eswarsandeep)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EswarSandeep&show_icons=true)  
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![GitHub streak stats](https://streak-stats.demolab.com/?user=EswarSandeep)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/eswarsandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eswarsandeep" height="30" width="40" /></a>
-<a href="https://www.naukri.com/mnjuser/profile" target="_blank"><img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/44/a9/ed44a9c2-36ad-adaa-4804-1581ba4b40b2/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/230x0w.webp" alt="Naukri Profile" height="30" width="40" /></a>
-<a href="https://medium.com/@eswarsandeep.donkina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eswarsandeep.donkina" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eswarsandeep&show_icons=true&locale=en&layout=compact" alt="eswarsandeep" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eswarsandeep&show_icons=true&locale=en" alt="eswarsandeep" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eswarsandeep&" alt="eswarsandeep" /></p>
