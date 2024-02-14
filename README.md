@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sandeep
+### Hi there 👋, my name is SANDEEP
 #### DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | CI/CD |
 ![DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | CI/CD |](https://media.licdn.com/dms/image/D5616AQE_PnK_HOe9Iw/profile-displaybackgroundimage-shrink_350_1400/0/1707903925245?e=1713398400&v=beta&t=URHUVqZlSd9j17A-mHURlh3Bk05ImM2b5sS3sZUdhqY)
 
@@ -12,7 +12,7 @@ Skills: DevOps / Jenkins / Docker / Kubernetes /
 - 😄 Pronouns: He/Him 
 
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
