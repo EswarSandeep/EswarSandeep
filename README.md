@@ -23,7 +23,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/eswarsandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eswarsandeep" height="30" width="40" /></a>
 
-  <a href="https://www.naukri.com/mnjuser/profile" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-inoey&psig=AOvVaw29bq8HiQW_NGbdkZGzo-XS&ust=1708004515308000&source=images&cd=vfe&opi=89978449&ved=0CBcQjRxqFwoTCNDLkeX6qoQDFQAAAAAdAAAAABAE" alt="Naukri Profile" height="30" width="40" /></a>
+  <a href="https://www.naukri.com/mnjuser/profile" target="_blank"><img align="center" src="https://www.livelaw.in/cms/wp-content/uploads/2014/06/Naukri.jpg" alt="Naukri Profile" height="30" width="40" /></a>
 
 <a href="https://medium.com/@eswarsandeep.donkina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eswarsandeep.donkina" height="30" width="40" /></a>
 </p>
