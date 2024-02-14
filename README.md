@@ -1,13 +1,13 @@
-### Hi there 👋, my name is SANDEEP
-#### DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | CI/CD |
+### Hi there 👋, This is SANDEEP DONKINA
+#### DevOps Engineer @Tech M
 ![DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | CI/CD |](https://media.licdn.com/dms/image/D5616AQE_PnK_HOe9Iw/profile-displaybackgroundimage-shrink_350_1400/0/1707903925245?e=1713398400&v=beta&t=URHUVqZlSd9j17A-mHURlh3Bk05ImM2b5sS3sZUdhqY)
 
 With 3.2 years of dedicated DevOps experience achieving tangible results in automating infrastructure, implementing CI/CD pipelines, and managing cloud-based services. Proactive and excited to partner with like-minded individuals to achieve goals.
 
-Skills: DevOps / Jenkins / Docker / Kubernetes / 
+Skills: DevOps  | AWS | Azure | Docker | Kubernetes | Jenkins | SonarQube | Trivy | Ansible | Terraform | Grafana | Prometheus | Slack | Splunk | Nexus
 
-- 🌱 I’m currently learning Azure 
-- 💬 Ask me about DevOps | AWS 
+- 🌱 I’m currently learning New Technologies which will support my growth 
+- 💬 Ask me about DevOps | AWS | Azure
 - 📫 How to reach me: eswarsandeep.donkina1@gmail.com 
 - 😄 Pronouns: He/Him 
 
