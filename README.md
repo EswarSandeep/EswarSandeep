@@ -23,7 +23,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/eswarsandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eswarsandeep" height="30" width="40" /></a>
 
-  <a href="https://www.naukri.com/mnjuser/profile" target="_blank"><img align="center" src="[https://www.livelaw.in/cms/wp-content/uploads/2014/06/Naukri.jpg](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/44/a9/ed44a9c2-36ad-adaa-4804-1581ba4b40b2/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/230x0w.webp)" alt="Naukri Profile" height="30" width="40" /></a>
+  <a href="https://www.naukri.com/mnjuser/profile" target="_blank"><img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/44/a9/ed44a9c2-36ad-adaa-4804-1581ba4b40b2/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/230x0w.webp" alt="Naukri Profile" height="30" width="40" /></a>
 
 <a href="https://medium.com/@eswarsandeep.donkina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eswarsandeep.donkina" height="30" width="40" /></a>
 </p>
